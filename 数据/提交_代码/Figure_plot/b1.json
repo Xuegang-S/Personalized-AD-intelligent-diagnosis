@@ -1,0 +1,226 @@
+{
+	"Socioeconomic status": {
+		"Townsend deprivation index at recruitment": {
+			"p": 0.000005, 
+			"std_b": -0.030918, 
+			"lower": -0.044240, 
+			"upper": -0.017596
+		}, 
+		"Qualifications": {
+			"p": 9.3707E-16, 
+			"std_b": -0.054394, 
+			"lower": -0.067650, 
+			"upper": -0.041137
+		}, 
+		"Current employment status": {
+			"p": 0.392647, 
+			"std_b": -0.005840, 
+			"lower": -0.019230, 
+			"upper": 0.007550
+		}, 
+		"Average total household income before tax 18000 to 30999": {
+			"p": 0.014497, 
+			"std_b": -0.016917, 
+			"lower": -0.030480, 
+			"upper": -0.003355
+		}, 
+		"Average total household income before tax 31000 to 51999": {
+			"p": 0.262072, 
+			"std_b": 0.007608, 
+			"lower": -0.005689, 
+			"upper": 0.020905
+		}, 
+		"Average total household income before tax 52000 to 100000": {
+			"p": 0.005676, 
+			"std_b": 0.019138, 
+			"lower": 0.005578, 
+			"upper": 0.032698
+		}, 
+		"Average total household income before tax 100000": {
+			"p": 0.002768, 
+			"std_b": 0.020656, 
+			"lower": 0.007127, 
+			"upper": 0.034184
+		}
+	}, 
+	"Lifestyles": {
+		"Tea intake": {
+			"p": 0.673141, 
+			"std_b": 0.002859, 
+			"lower": -0.010425, 
+			"upper": 0.016143
+		}, 
+		"Water intake": {
+			"p": 0.708593, 
+			"std_b": 0.002596, 
+			"lower": -0.011018, 
+			"upper": 0.016210
+		}, 
+		"Time spend outdoors in summer": {
+			"p": 4.9513E-10, 
+			"std_b": -0.043121, 
+			"lower": -0.056700, 
+			"upper": -0.029541
+		}, 
+		"Time spent outdoors in winter": {
+			"p": 1.4051E-9, 
+			"std_b": -0.041602, 
+			"lower": -0.055062, 
+			"upper": -0.028142
+		}, 
+		"Lifetime number of sexual partners": {
+			"p": 0.266290, 
+			"std_b": -0.007563, 
+			"lower": -0.020899, 
+			"upper": 0.005772
+		}, 
+		"MET minutes per week for vigorous activity": {
+			"p": 0.043761, 
+			"std_b": -0.013719, 
+			"lower": -0.027054, 
+			"upper": -0.000384
+		}, 
+		"Time spent watching television(TV)": {
+			"p": 2.4723E-16, 
+			"std_b": -0.056449, 
+			"lower": -0.069935, 
+			"upper": -0.042964
+		}, 
+		"Time spent using computer": {
+			"p": 0.348463, 
+			"std_b": -0.006400, 
+			"lower": -0.019780, 
+			"upper": 0.006980
+		}, 
+		"Glucosamine supplements": {
+			"p": 0.002572, 
+			"std_b": 0.020526, 
+			"lower": 0.007183, 
+			"upper": 0.033869
+		}, 
+		"Vitamin B supplements": {
+			"p": 0.048047, 
+			"std_b": -0.013412, 
+			"lower": -0.026709, 
+			"upper": -0.000115
+		}, 
+		"Folic acid or folate Vit B9 supplements": {
+			"p": 0.366243, 
+			"std_b": -0.006122, 
+			"lower": -0.019404, 
+			"upper": 0.007159
+		}, 
+		"Leisure social activities sports club or gym": {
+			"p": 0.076638, 
+			"std_b": 0.012021, 
+			"lower": -0.001286, 
+			"upper": 0.025328
+		}, 
+		"Leisure social activities adult education class": {
+			"p": 0.006649, 
+			"std_b": 0.018539, 
+			"lower": 0.005151, 
+			"upper": 0.031926
+		}, 
+		"Nap during day sometimes": {
+			"p": 0.523620, 
+			"std_b": 0.004357, 
+			"lower": -0.009033, 
+			"upper": 0.017746
+		}, 
+		"Nap during day usually": {
+			"p": 0.062942, 
+			"std_b": -0.012778, 
+			"lower": -0.026245, 
+			"upper": 0.000690
+		}, 
+		"Sleeplessness insomnia sometimes": {
+			"p": 0.684133, 
+			"std_b": 0.002759, 
+			"lower": -0.010533, 
+			"upper": 0.016051
+		}, 
+		"Sleeplessness insomnia usually": {
+			"p": 0.945333, 
+			"std_b": -0.000466, 
+			"lower": -0.013800, 
+			"upper": 0.012867
+		}, 
+		"Daytime dozing sleeping narcolepsy often": {
+			"p": 0.412086, 
+			"std_b": -0.005561, 
+			"lower": -0.018850, 
+			"upper": 0.007728
+		}, 
+		"Daytime dozing sleeping narcolepsy sometimes": {
+			"p": 0.141724, 
+			"std_b": -0.010033, 
+			"lower": -0.023415, 
+			"upper": 0.003350
+		}, 
+		"Exposure to tobacco smoke at home": {
+			"p": 0.014823, 
+			"std_b": -0.016508, 
+			"lower": -0.029787, 
+			"upper": -0.003230
+		}, 
+		"Exposure to tobacco smoke outside home": {
+			"p": 0.000006, 
+			"std_b": -0.030562, 
+			"lower": -0.043837, 
+			"upper": -0.017287
+		}, 
+		"Improper sleep duration": {
+			"p": 0.078342, 
+			"std_b": -0.012000, 
+			"lower": -0.025360, 
+			"upper": 0.001361
+		}
+	}, 
+	"Local environment": {
+		"Particulate matter air pollution pm2.5": {
+			"p": 0.023652, 
+			"std_b": -0.015384, 
+			"lower": -0.028709, 
+			"upper": -0.002059
+		}, 
+		"Greenspace percentage buffer 1000m": {
+			"p": 0.446963, 
+			"std_b": 0.005163, 
+			"lower": -0.008144, 
+			"upper": 0.018469
+		}, 
+		"Water percentage buffer 300m": {
+			"p": 0.006525, 
+			"std_b": 0.018426, 
+			"lower": 0.005150, 
+			"upper": 0.031702
+		}, 
+		"Natural environment percentage buffer 1000m": {
+			"p": 0.077321, 
+			"std_b": 0.011999, 
+			"lower": -0.001315, 
+			"upper": 0.025313
+		}, 
+		"Natural environment percentage buffer 300m": {
+			"p": 0.261000, 
+			"std_b": 0.007626, 
+			"lower": -0.005672, 
+			"upper": 0.020923
+		}
+	}, 
+	"Medical history": {
+		"Varicella": {
+			"p": 0.000281, 
+			"std_b": -0.024680, 
+			"lower": -0.037995, 
+			"upper": -0.011365
+		}, 
+		"Iron deficiency aemia": {
+			"p": 0.314317, 
+			"std_b": -0.006837, 
+			"lower": -0.020154, 
+			"upper": 0.006481
+		}
+	}
+}
