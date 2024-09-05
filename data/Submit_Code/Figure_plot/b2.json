@@ -1,0 +1,230 @@
+{
+	"Medical history": {	
+		"Other anaemias": {
+			"p": 0.250543, 
+			"std_b": -0.007801, 
+			"lower": -0.021108, 
+			"upper": 0.005506
+		}, 
+		"Obesity": {
+			"p": 0.131531, 
+			"std_b": -0.010218, 
+			"lower": -0.023498, 
+			"upper": 0.003062
+		}, 
+		"Disorders of lipoprotein metabolism and other lipidaemias": {
+			"p": 0.055682, 
+			"std_b": -0.013566, 
+			"lower": -0.027461, 
+			"upper": 0.000329
+		}, 
+		"Other anxiety disorders": {
+			"p": 0.465104, 
+			"std_b": -0.004964, 
+			"lower": -0.018283, 
+			"upper": 0.008356
+		}, 
+		"Reaction to severe stress and adjustment disorders": {
+			"p": 0.005821, 
+			"std_b": -0.018713, 
+			"lower": -0.032012, 
+			"upper": -0.005414
+		}, 
+		"Sleep disorders": {
+			"p": 0.301307, 
+			"std_b": -0.007006, 
+			"lower": -0.020292, 
+			"upper": 0.006279
+		}, 
+		"Other cataract": {
+			"p": 0.888229, 
+			"std_b": -0.000984, 
+			"lower": -0.014706, 
+			"upper": 0.012738
+		}, 
+		"Atrial fibrillation and flutter": {
+			"p": 0.832069, 
+			"std_b": -0.001457, 
+			"lower": -0.014927, 
+			"upper": 0.012013
+		}, 
+		"Gastritis and duodenitis": {
+			"p": 0.615637, 
+			"std_b": -0.003409, 
+			"lower": -0.016717, 
+			"upper": 0.009900
+		}, 
+		"Spondylosis": {
+			"p": 0.090580, 
+			"std_b": -0.011516, 
+			"lower": -0.024852, 
+			"upper": 0.001821
+		}, 
+		"Other disorders of urinary system": {
+			"p": 0.021386, 
+			"std_b": -0.015726, 
+			"lower": -0.029120, 
+			"upper": -0.002332
+		}, 
+		"Mouth teeth dental problems painful gums": {
+			"p": 0.207555, 
+			"std_b": -0.008546, 
+			"lower": -0.021835, 
+			"upper": 0.004744
+		}, 
+		"Mouth teeth dental problems toothache": {
+			"p": 0.980584, 
+			"std_b": 0.000165, 
+			"lower": -0.013134, 
+			"upper": 0.013464
+		}, 
+		"Mouth teeth dental problems dentures": {
+			"p": 0.242798, 
+			"std_b": -0.008129, 
+			"lower": -0.021771, 
+			"upper": 0.005512
+		}, 
+		"Mouth teeth dental problems none of the above": {
+			"p": 0.386968, 
+			"std_b": 0.005870, 
+			"lower": -0.007429, 
+			"upper": 0.019170
+		}, 
+		"Attendance disability mobility allowance": {
+			"p": 0.000011, 
+			"std_b": -0.029827, 
+			"lower": -0.043105, 
+			"upper": -0.016548
+		}, 
+		"Diabetes": {
+			"p": 4.5188E-9, 
+			"std_b": -0.039924, 
+			"lower": -0.053262, 
+			"upper": -0.026586
+		}, 
+		"Stroke": {
+			"p": 0.756406, 
+			"std_b": -0.002107, 
+			"lower": -0.015418, 
+			"upper": 0.011204
+		}, 
+		"Depression": {
+			"p": 0.170443, 
+			"std_b": -0.009337, 
+			"lower": -0.022689, 
+			"upper": 0.004014
+		}, 
+		"Hypertension": {
+			"p": 0.000035, 
+			"std_b": -0.029068, 
+			"lower": -0.042832, 
+			"upper": -0.015305
+		}
+	}, 
+	"Physical measures": {
+		"BMI": {
+			"p": 0.002613, 
+			"std_b": 0.020982, 
+			"lower": 0.007320, 
+			"upper": 0.034643
+		}, 
+		"Body fat percentage": {
+			"p": 0.571459, 
+			"std_b": -0.005101, 
+			"lower": -0.022770, 
+			"upper": 0.012567
+		}, 
+		"Basal metabolic rate": {
+			"p": 6.4117E-51, 
+			"std_b": 0.165819, 
+			"lower": 0.144235, 
+			"upper": 0.187403
+		}, 
+		"Trunk fat percentage": {
+			"p": 0.929291, 
+			"std_b": 0.000651, 
+			"lower": -0.013733, 
+			"upper": 0.015035
+		}, 
+		"Diastolic blood pressure": {
+			"p": 0.000072, 
+			"std_b": -0.027450, 
+			"lower": -0.040998, 
+			"upper": -0.013902
+		}, 
+		"Arm fat percentage": {
+			"p": 0.285720, 
+			"std_b": -0.009536, 
+			"lower": -0.027044, 
+			"upper": 0.007972
+		}, 
+		"Hand grip strength": {
+			"p": 1.8407E-27, 
+			"std_b": 0.109431, 
+			"lower": 0.089709, 
+			"upper": 0.129153
+		}, 
+		"Lung_function": {
+			"p": 0.512076, 
+			"std_b": -0.004441, 
+			"lower": -0.017720, 
+			"upper": 0.008837
+		}
+	}, 
+	"Psychosocial factors": {
+		"Mood swings": {
+			"std_b": -0.012208, 
+			"p": 0.073883, 
+			"lower": -0.025595, 
+			"upper": 0.001179
+		}, 
+		"Miserableness": {
+			"std_b": 0.001983, 
+			"p": 0.772955, 
+			"lower": -0.011491, 
+			"upper": 0.015457
+		}, 
+		"Fed up feelings": {
+			"std_b": -0.011130, 
+			"p": 0.103569, 
+			"lower": -0.024531, 
+			"upper": 0.002271
+		}, 
+		"Nervous feelings": {
+			"std_b": -0.008028, 
+			"p": 0.237810, 
+			"lower": -0.021357, 
+			"upper": 0.005301
+		}, 
+		"Worrier anxious feelings": {
+			"std_b": 0.005793, 
+			"p": 0.399629, 
+			"lower": -0.007688, 
+			"upper": 0.019273
+		}, 
+		"Tense highly strung": {
+			"std_b": -0.020996, 
+			"p": 0.001984, 
+			"lower": -0.034302, 
+			"upper": -0.007691
+		}, 
+		"Suffer from nerves": {
+			"std_b": -0.006676, 
+			"p": 0.326044, 
+			"lower": -0.020001, 
+			"upper": 0.006648
+		}, 
+		"Loneliness isolation": {
+			"std_b": -0.006822, 
+			"p": 0.316500, 
+			"lower": -0.020170, 
+			"upper": 0.006527
+		}, 
+		"Able to confide": {
+			"std_b": -0.011150, 
+			"p": 0.101213, 
+			"lower": -0.024484, 
+			"upper": 0.002184
+		}
+	}
+}
